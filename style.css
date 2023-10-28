@@ -1,0 +1,27 @@
+body {
+background-color: #EADDCA;
+}
+
+main {
+background-color: #ffffff;
+font: 24px Courier;
+text-align: left;
+}
+
+#menu li {
+display: inline;
+font: 30px Courier;
+margin: 0 120px;
+}
+
+h1 {
+font: 50px Courier;
+}
+
+nav {
+background-color: #80461B;
+}
+
+header {
+color: #C4A484;
+}
